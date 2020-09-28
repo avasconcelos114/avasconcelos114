@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=avasconcelos114&show_icons=true&hide=issues,contribs&theme=ayu-mirage" alt="avasconcelos114" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api?username=avasconcelos114&show_icons=true&count_private=true&theme=ayu-mirage" alt="avasconcelos114" height="140"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avasconcelos114&layout=compact&hide=html&langs_count=4&theme=ayu-mirage" alt="avasconcelos114" height="140"/>
 </p>
 
