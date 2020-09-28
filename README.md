@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Favasconcelos114%2Fhit-counter&count_bg=%23DEC79B&title_bg=%23080808&icon=&icon_color=%23B01E1E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![](readme.png)
 
 ---
